@@ -1,0 +1,17 @@
+C:\Users\Vu\Documents\8_Puzzle\8_Puzzle\bin\Debug\net7.0-windows\8_Puzzle.exe
+C:\Users\Vu\Documents\8_Puzzle\8_Puzzle\bin\Debug\net7.0-windows\8_Puzzle.deps.json
+C:\Users\Vu\Documents\8_Puzzle\8_Puzzle\bin\Debug\net7.0-windows\8_Puzzle.runtimeconfig.json
+C:\Users\Vu\Documents\8_Puzzle\8_Puzzle\bin\Debug\net7.0-windows\8_Puzzle.dll
+C:\Users\Vu\Documents\8_Puzzle\8_Puzzle\bin\Debug\net7.0-windows\8_Puzzle.pdb
+C:\Users\Vu\Documents\8_Puzzle\8_Puzzle\obj\Debug\net7.0-windows\8_Puzzle.csproj.AssemblyReference.cache
+C:\Users\Vu\Documents\8_Puzzle\8_Puzzle\obj\Debug\net7.0-windows\_8_Puzzle.Form1.resources
+C:\Users\Vu\Documents\8_Puzzle\8_Puzzle\obj\Debug\net7.0-windows\8_Puzzle.csproj.GenerateResource.cache
+C:\Users\Vu\Documents\8_Puzzle\8_Puzzle\obj\Debug\net7.0-windows\8_Puzzle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vu\Documents\8_Puzzle\8_Puzzle\obj\Debug\net7.0-windows\8_Puzzle.AssemblyInfoInputs.cache
+C:\Users\Vu\Documents\8_Puzzle\8_Puzzle\obj\Debug\net7.0-windows\8_Puzzle.AssemblyInfo.cs
+C:\Users\Vu\Documents\8_Puzzle\8_Puzzle\obj\Debug\net7.0-windows\8_Puzzle.csproj.CoreCompileInputs.cache
+C:\Users\Vu\Documents\8_Puzzle\8_Puzzle\obj\Debug\net7.0-windows\8_Puzzle.dll
+C:\Users\Vu\Documents\8_Puzzle\8_Puzzle\obj\Debug\net7.0-windows\refint\8_Puzzle.dll
+C:\Users\Vu\Documents\8_Puzzle\8_Puzzle\obj\Debug\net7.0-windows\8_Puzzle.pdb
+C:\Users\Vu\Documents\8_Puzzle\8_Puzzle\obj\Debug\net7.0-windows\8_Puzzle.genruntimeconfig.cache
+C:\Users\Vu\Documents\8_Puzzle\8_Puzzle\obj\Debug\net7.0-windows\ref\8_Puzzle.dll
